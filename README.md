@@ -1,6 +1,6 @@
 # MNIST MLP Weights & Biases
 
-As an exercise in reviewing Weights & Biases after [all I learned in ARENA](https://arena-chapter0-fundamentals.streamlit.app/[0.3]_Optimization), I trained an MLP to classify MNIST. 
+As an exercise in reviewing Weights & Biases after forgetting [all I learned in ARENA](https://arena-chapter0-fundamentals.streamlit.app/[0.3]_Optimization), I trained an MLP to classify MNIST. 
 
 ![mnist-mlp-train-loss](https://github.com/user-attachments/assets/d546c391-ae53-4f8d-ab6f-b74fff2d8b75)
 
